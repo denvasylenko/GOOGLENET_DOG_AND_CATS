@@ -2,4 +2,4 @@
 
 Simple image classification
 
-Using imagenet model and dataset https://www.kaggle.com/c/dogs-vs-cats/data
+Using GoogLeNet model and train on dataset https://www.kaggle.com/c/dogs-vs-cats/data

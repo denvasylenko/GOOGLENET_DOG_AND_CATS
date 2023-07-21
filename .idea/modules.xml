@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/VGG16_and_custom_data_set.iml" filepath="$PROJECT_DIR$/.idea/VGG16_and_custom_data_set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GoogLeNet_and_custom_data_set.iml" filepath="$PROJECT_DIR$/.idea/GoogLeNet_and_custom_data_set.iml" />
     </modules>
   </component>
 </project>
