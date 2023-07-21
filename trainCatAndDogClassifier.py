@@ -29,7 +29,6 @@ train_loader = DataLoader(dataset=train_set, shuffle=True, batch_size=batch_size
 test_loader = DataLoader(dataset=test_set, shuffle=True, batch_size=batch_size)
 
 
-
 # Model
 model = torchvision.models.googlenet(weights="DEFAULT")
 

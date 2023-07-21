@@ -27,7 +27,7 @@ class CatAndDogClassifier:
         image_processor = ImageProcessor(self.model)
 
         transform = transforms.Compose([
-            transforms.Resize((244, 244)),
+            transforms.Resize((224, 224)),
             transforms.ToTensor(),
         ])
         output_tensor = image_processor.process_image(image_path, transform)
